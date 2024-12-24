@@ -34,7 +34,7 @@
         </dependency>
     </dependencies>
 
-         <distributionManagement>
+         <<distributionManagement>
     <snapshotRepository>
         <id>snapshots</id>
         <name>ip-172-31-12-95-snapshots</name>
